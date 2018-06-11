@@ -52,7 +52,7 @@ if(!isset($_SESSION["username"])){
     </nav>
 
     <p style="font-size:30px; position:absolute; left:40%; top:50px;  " > <strong> + Add a Task</strong> </p>
-    <form action="Add_discussion.php" method="post"> 
+    <form action="add_task.php" method="post"> 
     <br/><br/><br/>
     
     <strong style="position:absolute; top:150px; left:280px; color:orange;  ">*Task Title : </strong>
