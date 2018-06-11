@@ -141,10 +141,10 @@ input {
 <div id="myDIV" class="header">
   <h2 style="margin:5px">My To Do List</h2>
   <input type="text" id="myInput" placeholder="Task title..." name="enter_title">
-  <span><a href="Add_discussion.php" class="addBtn" name="submit_up_button">link text</a> Submit </span>
+  <span><a href="add_task.php" class="addBtn" name="submit_up_button">link text</a> Submit </span>
 </div>
     
-  <a class="active" href="Add_discussion.php">+New Post</a>
+  <a class="active" href="add_task.php">+New Post</a>
 
 
 <ul id="myUL">
