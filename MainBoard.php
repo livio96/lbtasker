@@ -168,7 +168,7 @@ input {
 <div id="myDIV" class="header">
   <h2 style="margin:3px">My To Do List</h2>
   <br>
-  <a class="addBtn" href="add_task.php">+ Add a Task</a>
+  <a class="addBtn" href="Add_discussion.php">+ Add a Task</a>
   
   <form action="MainBoard.php" method="post">
   <input style=" height:5%; font-size:14px; width:10%; position:absolute; left:79%; top:29%; border:solid;  " placeholder="Enter Task #" name="id_entered" type="text" size="40">
