@@ -82,9 +82,10 @@ if(isset($_SESSION["username"])){
             </div>
             <div style="position:absolute; top:130px; left:350px; " class="small-8 columns">
               <input type="submit" id="right-label" value="Login" style="background: #0078A0; border: none; color: #fff; font-family: 'Helvetica Neue', sans-serif; font-size: 1em; padding: 10px;">
-              <input type="reset" id="right-label" value="Reset" style="background: #0078A0; border: none; color: #fff; font-family: 'Helvetica Neue', sans-serif; font-size: 1em; padding: 10px;">
+              <input type="reset" id="right-label" value="Clear" style="background: #0078A0; border: none; color: #fff; font-family: 'Helvetica Neue', sans-serif; font-size: 1em; padding: 10px;">
             </div>
           </div>
+          <h5 ><a href="password_recovery.php" style="position:absolute; top:200px; left: 330px;color:blue;  "><u><strong>Forgot Password?</a></u></strong></h5>
         </div>
       </div>
     </form>
